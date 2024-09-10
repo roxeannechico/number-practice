@@ -1,0 +1,12 @@
+const firstFavNum = 22;
+const secondFavNum = 9;
+const sum = firstFavNum + secondFavNum;
+console.log(sum);
+const difference = firstFavNum - secondFavNum;
+console.log(difference);
+const product = firstFavNum * secondFavNum;
+console.log(product);
+const quotient = firstFavNum / secondFavNum;
+console.log(quotient);
+const  = firstFavNum / secondFavNum;
+console.log(q);
